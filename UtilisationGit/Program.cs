@@ -10,6 +10,10 @@ namespace UtilisationGit
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello les mobiles!");
+
+            Console.ReadLine();
         }
     }
 }
