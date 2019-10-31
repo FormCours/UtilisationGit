@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UtilisationGit.models;
 
 namespace UtilisationGit
 {
@@ -12,6 +13,8 @@ namespace UtilisationGit
         {
 
             Console.WriteLine("Hello les mobiles!");
+
+            Person person = new Person();
 
             Console.ReadLine();
         }
